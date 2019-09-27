@@ -70,7 +70,6 @@
     <Compile Include="Assets\Test\A.cs" />
     <Compile Include="Assets\Test\B.cs" />
     <Compile Include="Assets\Test\C.cs" />
-    <Compile Include="Assets\Test\Q.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Home/Project/Unity/Smooth/SmoothUpdate/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
