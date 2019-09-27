@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\FixedInterpolation\InterpolatedTransformUpdater.cs" />
     <Compile Include="Assets\Scripts\FixedInterpolation\InterpolationController.cs" />
     <Compile Include="Assets\Scripts\ForceTest.cs" />
+    <Compile Include="Assets\Test\E.cs" />
     <Compile Include="Assets\Test\Q.cs" />
     <Compile Include="Assets\Test\W.cs" />
     <Reference Include="Unity.Timeline.Editor">
