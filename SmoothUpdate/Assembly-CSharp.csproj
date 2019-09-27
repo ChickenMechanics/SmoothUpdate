@@ -67,15 +67,9 @@
     <Compile Include="Assets\Scripts\FixedInterpolation\InterpolatedTransformUpdater.cs" />
     <Compile Include="Assets\Scripts\FixedInterpolation\InterpolationController.cs" />
     <Compile Include="Assets\Scripts\ForceTest.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\Test\A.cs" />
     <Compile Include="Assets\Test\B.cs" />
-=======
     <Compile Include="Assets\Test\E.cs" />
-    <Compile Include="Assets\Test\Q.cs" />
-    <Compile Include="Assets\Test\S.cs" />
     <Compile Include="Assets\Test\W.cs" />
->>>>>>> 14951cbe888469ed0f4e9cdde503eed4bef91693
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Home/Project/Unity/Test/SmoothUpdate/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
