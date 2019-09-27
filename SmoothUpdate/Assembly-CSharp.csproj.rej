@@ -1,9 +1,0 @@
-diff a/SmoothUpdate/Assembly-CSharp.csproj b/SmoothUpdate/Assembly-CSharp.csproj	(rejected hunks)
-@@ -68,6 +68,7 @@
-     <Compile Include="Assets\Scripts\FixedInterpolation\InterpolationController.cs" />
-     <Compile Include="Assets\Scripts\ForceTest.cs" />
-     <Compile Include="Assets\Test\A.cs" />
-+    <Compile Include="Assets\Test\Q.cs" />
-     <Reference Include="Unity.Timeline.Editor">
-       <HintPath>C:/Home/Project/Unity/Smooth/SmoothUpdate/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-     </Reference>
